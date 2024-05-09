@@ -23,4 +23,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AditiPrabhakar&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/AditiPrabhakar/AditiPrabhakar/output/snake.svg" alt="Snake animation" /> 
