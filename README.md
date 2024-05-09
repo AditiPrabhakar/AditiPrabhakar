@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Prabhakar</h1>
-<h3 align="center">A passionate web developer and a programmer from India</h3>
+<h3 align="center">A passionate web developer and a programmer</h3>
 
-- 🌱 I’m currently learning **Full stack web development and ML/AI!**
+- 🌱 I’m currently learning **Full stack web development and ML/AI**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
