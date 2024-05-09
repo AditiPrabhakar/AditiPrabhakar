@@ -1,5 +1,6 @@
-# 💫 About Me:
-<h1 align="center">Hi :sparkles:, I'm Aditi Prabhakar!</h1>
+# About Me 💫:
+<h1 align="center">
+  Hi :sparkles:, I'm Aditi Prabhakar!</h1>
 <h3 align="center">A passionate web developer and a programmer</h3>
 
 <img align="right" height="150" src= "https://i.imgflip.com/65efzo.gif" />
