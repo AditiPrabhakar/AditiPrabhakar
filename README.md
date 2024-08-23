@@ -5,7 +5,7 @@
 
 <!--<img align="right" height="150" src= "https://i.imgflip.com/65efzo.gif" />-->
 
-<br>- 🌱 I’m currently learning **Full stack web development and ML/AI**<br><br>- 👯 I’m looking to collaborate on **Web Development Projects**<br><br>- 🤝 I’m looking for help with **Gen AI and Cloud Computing**<br><br>- 💬 Ask me about **Web development**<br><br>- ⚡ Fun fact **I write poetry!**
+<br>- 🌱 I’m currently learning **Full stack web development**<br><br>- 👯 I’m looking to collaborate on **Web Development Projects**<br><br>- 🤝 I’m looking for help with **Gen AI and AI/ML**<br><br>- 💬 Ask me about **Web development**<br><br>- ⚡ Fun fact **I write poetry!**
 ###
 
 ## 🌐 Socials:
