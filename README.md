@@ -1,12 +1,12 @@
  <h1 align="center">Hi, I'm Aditi Prabhakar!🤍 </h1>
 
-<img src="https://github.com/user-attachments/assets/5b2fbc60-55b1-4c84-aae4-ac10bb21af5d" width="1200px" height="400px">
+<img src="https://github.com/user-attachments/assets/7a936289-325a-4926-9353-23835865a0f1" width="1200px" height="400px">
 
 <hr>
 <h1 align="center">About me and my interests✨ </h1>
 
 ```yaml
-description: A passionate Web Developer and programmer!
+description: A passionate Web Developer and Programmer!
 located_in: Punjab, India
 current_job: Undergraduate Student
 education:
