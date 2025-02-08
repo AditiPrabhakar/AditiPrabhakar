@@ -31,15 +31,15 @@ hobbies: [ "Poetry Writing", "Reading", "Music", "Drawing", "Art", "Singing" ]
 
 <p align="center">
   <a href="https://discord.gg/1151840842483507270">
-    <img src="https://github.com/user-attachments/assets/41371f5a-a80b-4a17-a376-228bfef6144b" width="80px">
+    <img src="https://github.com/user-attachments/assets/41371f5a-a80b-4a17-a376-228bfef6144b" width="70px">
   </a>
   &nbsp;
   <a href="https://instagram.com/aditiprabhakar02">
-    <img src="https://github.com/user-attachments/assets/37bc5fb0-83ae-444d-921b-8bae69457eb7" width="80px">
+    <img src="https://github.com/user-attachments/assets/37bc5fb0-83ae-444d-921b-8bae69457eb7" width="70px">
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/aditi-prabhakar-7b1a08245">
-    <img src="https://github.com/user-attachments/assets/f52a677e-9f38-4a6c-a717-5ad3f0b9a565" width="80px">
+    <img src="https://github.com/user-attachments/assets/f52a677e-9f38-4a6c-a717-5ad3f0b9a565" width="70px">
   </a>
 </p>
 <hr>
