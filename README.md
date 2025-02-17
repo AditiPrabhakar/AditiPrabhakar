@@ -82,8 +82,8 @@ hobbies: [ "Poetry Writing", "Reading", "Music", "Drawing", "Art", "Singing" ]
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AditiPrabhakar&theme=dark&hide_border=false) &nbsp; &nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiPrabhakar&layout=compact&theme=dark)
 
-### :thought_balloon: Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<!--### :thought_balloon: Random Dev Quote-->
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)-->
 
 	
  <summary><b>GSSOC(24) Badges🚀</b></summary><br>
